@@ -71,7 +71,7 @@ const Header = () => {
 
       <nav className={`${styles['navbar-header']} navbar navbar-expand-xl justify-content-between`} >
         <div className="container">
-          <a className="navbar-brand" href="/">
+          <a className="navbar-brand" >
             <Image
               loader={myLoader}
               src="./assets/headerLogo.png"
