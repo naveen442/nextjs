@@ -3,18 +3,7 @@ import Head from 'next/head';
 import Script from 'next/script';
 
 import Form from "react-bootstrap/Form";
-import {
-    MDBBtn,
-    MDBContainer,
-    MDBRow,
-    MDBCol,
-    MDBCard,
-    MDBCardBody,
-    MDBInput,
-    MDBCheckbox,
-    MDBIcon
-  }
-  from 'mdb-react-ui-kit';
+
 import { Image } from 'react-bootstrap';
 const index = () => {
   const clearData = {

@@ -1,7 +1,7 @@
-import '../styles/globals.css'
-import Layout from '../components/Layout'
+import '../styles/globals.css';
+import Layout from '../components/Layout';
 
-
+import 'bootstrap/dist/css/bootstrap.css';
 
 
 // const darkTheme = createTheme({
